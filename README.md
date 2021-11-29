@@ -3,7 +3,7 @@
   <br><br>
   </div>
  <div align=center>
- <div><a href="https://velog.io/@krkgj"></a></div>
+ <div><a href="https://velog.io/@krkgj">krkgj velog🖥</a></div>
   <div>
    <h2>Use Stacks</h2>
    <h3>Front-End</h3>
