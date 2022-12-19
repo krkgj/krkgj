@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=Nodejs&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Nodejs-339933?style=flat-square&logo=nodejs&logoColor=white"/> &nbsp
     </div>
   </div>
   
