@@ -23,7 +23,7 @@
   <h3>Back-End</h3>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/> &nbsp
-<img src="https://img.shields.io/badge/Java-CC491C?style=for-the-badge&logo=Java&logoColor=white"/> &nbsp
+<img src="https://img.shields.io/badge/Java-CC491C?style=for-the-badge&logo=OpenJDK&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"/> &nbsp
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/> &nbsp
